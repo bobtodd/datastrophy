@@ -1,0 +1,6 @@
+# ignore specific files
+.DS_Store
+
+# ignore compiled python code
+*.pyc
+
